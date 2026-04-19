@@ -18,11 +18,11 @@ const galleryImages = [
     alt: "Outdoor lighting setup",
   },
   {
-    url: "https://images.unsplash.com/photo-1581092918484-8313e6e99b35?w=800&h=600&fit=crop",
+    url: "https://images.unsplash.com/photo-1621905252472-a54c7fc6f3e3?w=800&h=600&fit=crop",
     alt: "Electrical wiring work",
   },
   {
-    url: "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=800&h=600&fit=crop",
+    url: "https://images.unsplash.com/photo-1558002038-1055907df827?w=800&h=600&fit=crop",
     alt: "Security system installation",
   },
 ];

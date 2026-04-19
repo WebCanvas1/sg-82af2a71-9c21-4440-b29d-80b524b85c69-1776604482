@@ -11,9 +11,9 @@ import { SEO } from "@/components/SEO";
 export default function Home() {
   return (
     <>
-      <SEO 
-        title="K A K ELECTRICALS - Licensed Electrician Craigieburn VIC | 24/7 Service"
-        description="Expert electrical services in Craigieburn & Wollert. 5.0★ rated. Emergency repairs, installations, upgrades. Open 24 hours. Call 0425 170 200 for a free quote."
+      <SEO
+        title="KAK Electricals - Licensed Electrician Craigieburn VIC | Open 24/7"
+        description="Expert electrical services in Craigieburn. 5-star rated with 159 reviews. Open 24/7 for emergency repairs. Licensed & insured electricians serving Wollert and nearby areas. Call 0425 170 200 for a free quote."
       />
       <Header />
       <main>

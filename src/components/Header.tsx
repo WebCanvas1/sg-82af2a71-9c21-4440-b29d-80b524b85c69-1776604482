@@ -8,7 +8,7 @@ export function Header() {
       <div className="container mx-auto px-4 py-4 flex items-center justify-between max-w-7xl">
         <div>
           <h1 className="font-display font-bold text-xl md:text-2xl text-primary">
-            K A K ELECTRICALS
+            KAK Electricals
           </h1>
           <p className="text-xs text-muted-foreground hidden sm:block">
             Licensed Electrician • Craigieburn VIC

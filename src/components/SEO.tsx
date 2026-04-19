@@ -9,8 +9,8 @@ interface SEOProps {
 
 // SEO elements that can be used in _document.tsx (returns JSX without Head wrapper)
 export function SEOElements({
-  title = "Hello World",
-  description = "Welcome to my app",
+  title = "KAK Electricals - Licensed Electrician Craigieburn VIC",
+  description = "Expert electrical services in Craigieburn. 5-star rated, open 24/7 for emergency repairs. Licensed & insured electricians serving Wollert and nearby areas.",
   image = "/og-image.png",
   url,
 }: SEOProps) {
@@ -39,8 +39,8 @@ export function SEOElements({
 // SEO component for use in pages/_app.tsx or individual pages (uses next/head)
 // Note: Flattened structure (no fragment) for better Next.js Head compatibility during hot reload
 export function SEO({
-  title = "Hello World",
-  description = "Welcome to my app",
+  title = "KAK Electricals - Licensed Electrician Craigieburn VIC",
+  description = "Expert electrical services in Craigieburn. 5-star rated, open 24/7 for emergency repairs. Licensed & insured electricians serving Wollert and nearby areas.",
   image = "/og-image.png",
   url,
 }: SEOProps) {

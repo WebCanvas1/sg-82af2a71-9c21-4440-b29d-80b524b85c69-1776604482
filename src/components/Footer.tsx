@@ -7,7 +7,7 @@ export function Footer() {
       <div className="container mx-auto px-4 max-w-7xl">
         <div className="grid md:grid-cols-3 gap-8 mb-8">
           <div>
-            <h3 className="font-display font-bold text-xl mb-4">K A K ELECTRICALS</h3>
+            <h3 className="font-display font-bold text-xl mb-4">KAK Electricals</h3>
             <p className="text-background/80 mb-4">
               Licensed electrical services in Craigieburn and surrounding areas. Quality work, fair pricing, and exceptional customer service.
             </p>
@@ -55,7 +55,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-background/20 pt-8 text-center text-background/60 text-sm">
-          <p>&copy; {new Date().getFullYear()} K A K ELECTRICALS. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} KAK Electricals. All rights reserved.</p>
           <p className="mt-2">Licensed Electrician • Fully Insured • Serving Craigieburn & Wollert</p>
         </div>
       </div>
